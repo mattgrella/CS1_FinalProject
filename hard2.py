@@ -13,7 +13,6 @@ def not_in_row(row,num):
 
 def create_set(board):
     
-    
         
     
 def solveSudoku(board):
